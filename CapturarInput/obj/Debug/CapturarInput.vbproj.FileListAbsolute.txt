@@ -1,0 +1,32 @@
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\bin\Debug\CapturarInput.exe.config
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\bin\Debug\CapturarInput.exe
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\bin\Debug\CapturarInput.pdb
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\bin\Debug\CapturarInput.xml
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\obj\Debug\CapturarInput.Form1.resources
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\obj\Debug\CapturarInput.Resources.resources
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\obj\Debug\CapturarInput.vbproj.GenerateResource.Cache
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\obj\Debug\CapturarInput.exe
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\obj\Debug\CapturarInput.xml
+C:\Users\vicSantcu\AppData\Local\Temporary Projects\CapturarInput\obj\Debug\CapturarInput.pdb
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\bin\Debug\CapturarInput.exe.config
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.exe
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.xml
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.pdb
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\bin\Debug\CapturarInput.exe.config
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.exe
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.xml
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.pdb
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\bin\Debug\CapturarInput.exe
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\bin\Debug\CapturarInput.pdb
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\bin\Debug\CapturarInput.xml
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.vbprojResolveAssemblyReference.cache
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.Resources.resources
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.vbproj.GenerateResource.Cache
+C:\Users\SkylakeBCN\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.Form1.resources
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\bin\Debug\CapturarInput.exe
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\bin\Debug\CapturarInput.pdb
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\bin\Debug\CapturarInput.xml
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.vbprojResolveAssemblyReference.cache
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.Form1.resources
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.Resources.resources
+D:\Dropbox\mis proyectos vb.net\CapturarInput\CapturarInput\obj\Debug\CapturarInput.vbproj.GenerateResource.Cache
